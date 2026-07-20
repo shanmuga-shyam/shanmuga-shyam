@@ -239,15 +239,15 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION PAC-MAN -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> Contribution Snake
+## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> Contribution Pac-Man
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/pacman-contribution-graph.svg">
+  <img alt="GitHub contribution pacman animation" src="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
