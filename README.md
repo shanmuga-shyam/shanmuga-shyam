@@ -48,13 +48,12 @@
 
 ```yaml
 name: Shanmuga Shyam B
-education: B.E in Computer Science & Engineering @ Chennai Institute of Technology (2023–2027)
-role: Full-Stack Developer | AI Engineer | Research Intern
+role: Full-Stack Developer | AI Engineer | Open Source Contributor
 focus:
   - Full-Stack Web Development (React, Next.js, Node.js, Express.js, FastAPI)
-  - AI & Intelligent Systems (LangChain, LangGraph, Gemini, RAG, Multi-Agent Pipelines)
+  - AI & Intelligent Systems (LangChain, LangGraph, Transformers, RAG, Multi-Agent)
   - Scalable APIs & Automation Tools
-  - Computer Vision & Anomaly Detection (YOLOv8, OpenCV)
+  - Data Analytics & Computer Vision
 languages:
   - Python, JavaScript, TypeScript
 frameworks:
@@ -64,15 +63,15 @@ databases:
 cloud:
   - AWS S3, Git, Docker, Vercel
 currently_exploring:
-  - Multi-agent orchestration (Mastra, Hermes)
-  - Advanced RAG pipelines & LLM evaluation
-  - AI-driven document processing & automation
+  - Multi-agent orchestration & LLM evaluation
+  - Advanced RAG pipelines
+  - Big Data Analytics with PySpark & Databricks
 motto: "Build. Automate. Innovate."
 ```
 
 <br/>
 
-<!-- ABOUT ME SECTION -->
+<!-- ABOUT ME -->
 <div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
@@ -81,9 +80,7 @@ motto: "Build. Automate. Innovate."
 <tr>
 <td width="60%">
 
-I am a **B.E Computer Science & Engineering** student at **Chennai Institute of Technology** (2023–2027) with a passion for building full-stack web applications, AI-powered systems, and intelligent automation tools.
-
-I specialize in **AI integration** — building multi-agent pipelines, RAG-based document processing systems, and computer vision solutions using **LangChain**, **LangGraph**, **Gemini**, **YOLOv8**, and **OpenCV**. My projects span AI-driven proposal assessment platforms (PRISM), intelligent RFP processing systems, real-time anomaly detection for surveillance, and automated model recommendation engines (SAGE).
+Passionate about building full-stack web applications, AI-powered systems, and intelligent automation tools. I specialize in **AI integration** — building multi-agent pipelines, RAG-based document processing systems, and computer vision solutions using **LangChain**, **LangGraph**, **Transformers**, **YOLO**, and **OpenCV**. My projects span AI-driven proposal assessment platforms (PRISM), intelligent RFP processing systems, real-time anomaly detection for surveillance, and automated model recommendation engines (SAGE).
 
 I thrive at the intersection of software engineering and artificial intelligence, creating systems that are not only functional but intelligent.
 
@@ -115,7 +112,7 @@ I thrive at the intersection of software engineering and artificial intelligence
 </td>
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Computer%20Vision-ff0000?style=for-the-badge&labelColor=0d1117" alt="Computer Vision"/><br/>
-<sub>YOLOv8 anomaly detection & surveillance</sub>
+<sub>YOLO anomaly detection & surveillance</sub>
 </td>
 </tr>
 </table>
@@ -124,95 +121,57 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 ---
 
-<!-- TECH STACK -->
+<!-- SKILLS -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Tech Arsenal
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Skills
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,js,ts&perline=6&theme=dark" />
+### Programming & Development
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=apifox&logoColor=ff0000"/>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&perline=6&theme=dark" />
+<br/><br/>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4&theme=dark" />
+### Databases & Tools
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/AWS%20S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ff0000"/>
 
-### AI / ML & Deep Learning
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3&theme=dark" />
+<br/><br/>
+
+### AI/ML & Deep Learning
 <img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=ff0000"/>
 <img src="https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=langgraph&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge&logoColor=ff0000&color=b30000"/>
+<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=ff0000"/>
 <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=ff0000"/>
 <img src="https://img.shields.io/badge/YOLO-0d1117?style=for-the-badge&logoColor=ff0000&color=b30000"/>
-<img src="https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=xgboost&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/Mastra-0d1117?style=for-the-badge&logoColor=ff0000&color=b30000"/>
+<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logoColor=ff0000&color=b30000"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-0d1117?style=for-the-badge&logoColor=ff0000&color=b30000"/>
 <img src="https://img.shields.io/badge/MCP-0d1117?style=for-the-badge&logoColor=ff0000"/>
 
-### Data Science
+<br/><br/>
+
+### Data Analytics
+<img src="https://img.shields.io/badge/Databricks-0d1117?style=for-the-badge&logo=databricks&logoColor=ff0000"/>
+<img src="https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=ff0000"/>
 <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=ff0000"/>
 <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=ff0000"/>
 <img src="https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=ff0000"/>
-<img src="https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logoColor=ff0000&color=b30000"/>
-
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=4&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=ff0000"/>
-
-### DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,gcp,vercel&perline=7&theme=dark" />
-<img src="https://img.shields.io/badge/AWS%20S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=ff0000"/>
-
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma&perline=3&theme=dark" />
-
-</div>
-
----
-
-<!-- PROFESSIONAL CARDS -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="30"> Professional Expertise
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" width="100%"/><br/>
-<b><span style="color:#ff0000">Frontend</span></b><br/>
-<sub>React, Next.js, TypeScript, Tailwind CSS, Responsive Design</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" width="100%"/><br/>
-<b><span style="color:#ff0000">Backend</span></b><br/>
-<sub>Node.js, Express.js, FastAPI, Flask, REST & GraphQL APIs</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" width="100%"/><br/>
-<b><span style="color:#ff0000">AI / ML</span></b><br/>
-<sub>LangChain, LangGraph, Gemini, RAG, Multi-Agent, YOLO</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" width="100%"/><br/>
-<b><span style="color:#b30000">Databases</span></b><br/>
-<sub>PostgreSQL, MongoDB, MySQL, Supabase, Redis</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp&theme=dark" width="100%"/><br/>
-<b><span style="color:#ff0000">DevOps</span></b><br/>
-<sub>Docker, AWS S3, GCP, Vercel, Linux, Git</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" width="100%"/><br/>
-<b><span style="color:#b30000">Tools</span></b><br/>
-<sub>VS Code, Postman, Figma, Git, Linux Terminal</sub>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -229,7 +188,7 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS 3D ANIMATED -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
@@ -237,10 +196,10 @@ I thrive at the intersection of software engineering and artificial intelligence
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shanmuga-shyam&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=0d1117" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shanmuga-shyam&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=0d1117" width="100%" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmuga-shyam&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=808080" width="100%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=shanmuga-shyam&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=808080" width="100%" alt="GitHub Streak"/>
 </td>
 </tr>
 <tr>
@@ -253,6 +212,18 @@ I thrive at the intersection of software engineering and artificial intelligence
 </tr>
 </table>
 
+<br/>
+
+<!-- 3D Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shanmuga-shyam&theme=github_dark" width="100%" alt="Profile Details"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanmuga-shyam&theme=github_dark" width="49%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shanmuga-shyam&theme=github_dark" width="49%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanmuga-shyam&theme=github_dark" width="49%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shanmuga-shyam&theme=github_dark" width="49%" alt="Productive Time"/>
+
 </div>
 
 ---
@@ -263,6 +234,21 @@ I thrive at the intersection of software engineering and artificial intelligence
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyIJU2RS/giphy.gif" width="30"> Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmuga-shyam&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
+
+---
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30"> Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -295,8 +281,8 @@ I thrive at the intersection of software engineering and artificial intelligence
 <tr>
 <td width="50%" align="center">
 <h3>Anomaly Detection — Real-Time Surveillance</h3>
-<sub>React.js, FastAPI, YOLOv8, PostgreSQL</sub><br/>
-<sub>Real-time anomaly detection from surveillance footage using YOLOv8 and UCF Crime Dataset with automated inference pipeline.</sub><br/><br/>
+<sub>React.js, FastAPI, YOLO, PostgreSQL</sub><br/>
+<sub>Real-time anomaly detection from surveillance footage using YOLO and UCF Crime Dataset with automated inference pipeline.</sub><br/><br/>
 <a href="https://github.com/shanmuga-shyam">
   <img src="https://img.shields.io/badge/VIEW_CODE-0d1117?style=for-the-badge&logo=github&logoColor=ff0000"/>
 </a>
@@ -316,95 +302,6 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 ---
 
-<!-- COMPETITIVE PROGRAMMING -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Competitive Programming
-
-<a href="https://codeforces.com/profile/shanmugashyamb">
-  <img src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=ff0000" alt="Codeforces"/>
-</a>
-<a href="https://www.codechef.com/users/shanmugashyam">
-  <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=ff0000" alt="CodeChef"/>
-</a>
-<a href="https://leetcode.com/u/ShanmugaShyamB/">
-  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff0000" alt="LeetCode"/>
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/LeetCode%20Knight-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Max Rating 1941 · Top 5.19% Globally</sub><br/>
-<sub>Solved 831 Problems · Best Rank 949</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/CodeChef%20★%20★-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Max Rating 1544 · Div 3</sub><br/>
-<sub>Solved 169 Problems · Best Rank 200</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Codeforces-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Max Rating 1081 · Newbie</sub><br/>
-<sub>Solved 274 Problems · Best Rank 8153</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- LEETCODE STATS -->
-<div align="center">
-
-### LeetCode Stats
-
-<img src="https://leetcard.jacoblin.cool/ShanmugaShyamB?theme=dark&font=Fira%20Code&ext=contest&animation=true&bg=0d1117&text_color=ffffff&border_color=0d1117" width="100%" alt="LeetCode Stats"/>
-
-</div>
-
-</div>
-
----
-
-<!-- LEARNING ROADMAP -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Learning Roadmap
-
-<table>
-<tr>
-<th width="33%" align="center"><span style="color:#ff0000">Now</span></th>
-<th width="33%" align="center"><span style="color:#ff0000">Next</span></th>
-<th width="33%" align="center"><span style="color:#b30000">Future</span></th>
-</tr>
-<tr>
-<td align="center">
-<sub>Multi-Agent Orchestration (Mastra, Hermes)</sub><br/>
-<sub>Advanced RAG Pipelines & LLM Evaluation</sub><br/>
-<sub>AI-Driven Document Processing</sub><br/>
-<sub>Computer Vision & YOLO</sub>
-</td>
-<td align="center">
-<sub>Distributed Systems</sub><br/>
-<sub>System Design & Scalability</sub><br/>
-<sub>Kubernetes & Docker Orchestration</sub><br/>
-<sub>Advanced AI Agents</sub>
-</td>
-<td align="center">
-<sub>AGI Research</sub><br/>
-<sub>Bio-Inspired Computing</sub><br/>
-<sub>Edge AI</sub><br/>
-<sub>Quantum Computing</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <!-- ACHIEVEMENTS -->
 <div align="center">
 
@@ -412,111 +309,27 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/SIH%202025%20Winners-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
 <sub>Won Smart India Hackathon 2025 for AI/ML tool</sub><br/>
 <sub>Automated R&D proposal evaluation & compliance</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/ICDSAAI%202025-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
 <sub>Presented brain tumor detection using CNNs</sub><br/>
 <sub>International AI conference paper presentation</sub>
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/SDG%20Hackathon-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
 <sub>Top 5 finish — built solution aligned with</sub><br/>
 <sub>UN Sustainable Development Goals</sub>
 </td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/LeetCode%20Knight-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Top 5.19% Globally · Max Rating 1941</sub><br/>
-<sub>831 Problems Solved</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AWS%20Certified-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>AWS Certified Cloud Practitioner</sub><br/>
-<sub>Cloud concepts & best practices</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/NPTEL%20Silver%20Elite-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Cloud Computing — IIT Kharagpur</sub><br/>
-<sub>Silver Elite certification</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- EXPERIENCE -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="30"> Experience
-
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>Research Intern</h3>
-<sub><b>Chennai Institute of Technology</b> · Nov 2024 – Dec 2024</sub><br/><br/>
-<sub>Revolutionizing Surveillance with Deep Learning-Powered Anomaly Detection and Real-Time Behavior Analysis.</sub><br/>
-<sub>Built YOLOv8-based anomaly detection for CCTV with real-time unusual behavior alerts.</sub>
-</td>
-<td width="50%" align="center">
-<h3>AIML Virtual Internship</h3>
-<sub><b>Eduskills</b> · May 2025 – Jun 2025</sub><br/><br/>
-<sub>Applied Machine Learning, LLMs, and RAG techniques to build and evaluate AI-driven solutions.</sub><br/>
-<sub>Gained practical experience in AI Model Training, Inference, and Real-World AI System Development.</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- EDUCATION -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Education
-
-<table>
-<tr>
-<td align="center" width="100%">
-<img src="https://img.shields.io/badge/B.E%20Computer%20Science%20%26%20Engineering-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub><b>Chennai Institute of Technology, Chennai</b> · 2023 – 2027</sub><br/>
-<sub>CGPA: 8.65/10</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- CERTIFICATIONS -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> Certifications
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Validates fundamental cloud concepts,</sub><br/>
-<sub>AWS services, and best practices</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Cloud%20Computing-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>NPTEL IIT Kharagpur · Silver Elite</sub><br/>
-<sub>Cloud architectures, services & advanced concepts</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Python%20Machine%20Learning-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Udemy — Predictive models,</sub><br/>
-<sub>data-driven solutions & intelligent systems</sub>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Paper%20Publication-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
+<sub>Research paper published in</sub><br/>
+<sub>peer-reviewed international journal</sub>
 </td>
 </tr>
 </table>
