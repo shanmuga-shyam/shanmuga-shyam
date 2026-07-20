@@ -89,7 +89,7 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 </td>
 <td width="40%" align="center">
-<img width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Eat Sleep Code Repeat"/>
 </td>
 </tr>
 </table>
