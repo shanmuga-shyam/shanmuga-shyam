@@ -6,6 +6,10 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 permissions:
   contents: write
 
@@ -17,15 +21,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github_user_name: shanmuga-shyam
+          python-version: "3.12"
 
-      - name: Push SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Generate Pac-Man SVGs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: |
+          python scripts/generate_pacman.py
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
