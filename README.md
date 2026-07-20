@@ -34,6 +34,9 @@
 <a href="https://www.codechef.com/users/shanmugashyam">
   <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=ff0000" alt="CodeChef"/>
 </a>
+<a href="https://leetcode.com/u/ShanmugaShyamB/">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff0000" alt="LeetCode"/>
+</a>
 
 </div>
 
@@ -195,16 +198,12 @@ Currently exploring **multi-agent systems**, **AI automation**, and **Zustand** 
 
 ---
 
-<!-- CONTRIBUTION SNAKE / PAC-MAN ANIMATION -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/HQHwv3hN4rFITV9VHb/giphy.gif" width="30"> Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/shanmuga-shyam/shanmuga-shyam/output/pacman-contribution-graph.svg" width="100%">
-</picture>
+<img src="https://ghchart.rshah.org/ff0000/shanmuga-shyam" alt="GitHub Contribution Chart" width="100%"/>
 
 </div>
 
@@ -304,6 +303,9 @@ Currently exploring **multi-agent systems**, **AI automation**, and **Zustand** 
 <a href="https://www.codechef.com/users/shanmugashyam">
   <img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=ff0000" alt="CodeChef"/>
 </a>
+<a href="https://leetcode.com/u/ShanmugaShyamB/">
+  <img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ff0000" alt="LeetCode"/>
+</a>
 
 <br/><br/>
 
@@ -323,6 +325,17 @@ Currently exploring **multi-agent systems**, **AI automation**, and **Zustand** 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- LEETCODE STATS -->
+<div align="center">
+
+### LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/ShanmugaShyamB?theme=dark&font=Fira%20Code&ext=contest&animation=true&bg=0d1117&text_color=ffffff&border_color=0d1117" width="100%" alt="LeetCode Stats"/>
+
+</div>
 
 </div>
 
