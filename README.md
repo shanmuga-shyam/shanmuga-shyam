@@ -177,17 +177,6 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/HQHwv3hN4rFITV9VHb/giphy.gif" width="30"> Contribution Graph
-
-<img src="https://ghchart.rshah.org/ff0000/shanmuga-shyam" alt="GitHub Contribution Chart" width="100%"/>
-
-</div>
-
----
-
 <!-- GITHUB STATS 3D ANIMATED -->
 <div align="center">
 
@@ -196,22 +185,10 @@ I thrive at the intersection of software engineering and artificial intelligence
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shanmuga-shyam&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff&border_color=0d1117" width="100%" alt="GitHub Stats"/>
-</td>
-<td width="50%">
 <img src="https://streak-stats.demolab.com/?user=shanmuga-shyam&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&dates=808080" width="100%" alt="GitHub Streak"/>
 </td>
 </tr>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmuga-shyam&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&border_color=0d1117" width="100%" alt="Top Languages"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-trophy.vercel.app/?username=shanmuga-shyam&theme=radical&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
-</td>
-</tr>
 </table>
-
 <br/>
 
 <!-- 3D Profile Summary Cards -->
@@ -231,7 +208,7 @@ I thrive at the intersection of software engineering and artificial intelligence
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyIJU2RS/giphy.gif" width="30"> Contribution Activity
+## Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanmuga-shyam&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=ff0000&hide_border=true" width="100%" alt="Activity Graph"/>
 
