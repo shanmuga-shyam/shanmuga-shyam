@@ -315,46 +315,6 @@ I thrive at the intersection of software engineering and artificial intelligence
 
 ---
 
-<!-- FUN FACTS -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFPj1a/giphy.gif" width="30"> Fun Facts
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/%F0%9F%92%A1-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>Once debugged a critical issue while on a roller coaster — adrenaline helps with logic!</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/%F0%9F%94%8D-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>I write my best code between midnight and 3 AM</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/%F0%9F%A4%96-ff0000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>AI isn't just my work — it's my passion and curiosity</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/%E2%99%9F%EF%B8%8F-b30000?style=for-the-badge&labelColor=0d1117"/><br/>
-<sub>I believe clean code is a form of art</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" alt="Random Dev Quote"/>
-
-</div>
-
-<br/>
 
 <!-- FOOTER -->
 <div align="center">
@@ -366,5 +326,5 @@ I thrive at the intersection of software engineering and artificial intelligence
     <img src="https://img.shields.io/badge/%40shanmuga--shyam-0d1117?style=for-the-badge&logo=github&logoColor=ff0000"/>
   </a>
   <br/><br/>
-  <sub>© 2026 Shanmuga Shyam B. Crafted with ❤️ and 🔥</sub>
+  <sub>-Shanmuga Shyam B.</sub>
 </div>
